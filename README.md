@@ -1,4 +1,4 @@
-# Pemrograman Mobile Pertemuan Minggu 5
+# Pemrograman Mobile Pertemuan Minggu 6
 
 | Nama  :   | Haidar Aly |
 | :--------: | :-------: |
